@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Leonardo Perez
+description: Estudiante de Ciberseguridad | Writeups & CTF
+remote_theme: pages-themes/ordered-list@v0.2.0
+author:
+  name: Francisco Leonardo Perez
+  github: leonardoperezf01
